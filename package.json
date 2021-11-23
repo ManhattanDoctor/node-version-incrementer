@@ -1,0 +1,27 @@
+{
+  "name": "node-version-incrementer",
+  "version": "1.0.5",
+  "description": "Scripts for increment and synchronize version between package.json and config.json files",
+  "scripts": {},
+  "main": "index.js",
+  "author": {
+    "name": "Renat Gubaev",
+    "email": "renat.gubaev@gmail.com"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "replace-in-file": "^6.3.2",
+    "semver": "^7.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManhattanDoctor/node-version-incrementer.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "bugs": {
+    "url": "https://github.com/ManhattanDoctor/node-version-incrementer/issues"
+  },
+  "homepage": "https://github.com/ManhattanDoctor/node-version-incrementer#readme"
+}
