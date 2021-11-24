@@ -1,6 +1,6 @@
 {
   "name": "node-version-incrementer",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Scripts for increment and synchronize version between package.json and config.json files",
   "scripts": {},
   "main": "index.js",
